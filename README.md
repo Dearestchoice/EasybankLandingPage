@@ -5,8 +5,6 @@ This is a responsive landing page for Easybank, built as part of a Frontend Ment
 ## Project Features
 - Fully responsive design
 - Navigation bar with hamburger menu for smaller screens
-- Clean, modern typography
-- Interactive buttons and links
 - Easy-to-maintain file structure
 
 ## Technologies Used
@@ -14,8 +12,3 @@ This is a responsive landing page for Easybank, built as part of a Frontend Ment
 - CSS3
 - JavaScript
 - Vercel for deployment
-
-## How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/[your-username]/easybank-landing-page.git
